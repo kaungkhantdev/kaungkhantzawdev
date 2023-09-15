@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Language and tools</h3>
+<h3 align="left">Languages, Libraries and Frameworks</h3>
 
 ###
 
@@ -46,6 +46,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="35" alt="socketio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nuxtjs" height="35" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="35" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
 </div>
 
 ###
