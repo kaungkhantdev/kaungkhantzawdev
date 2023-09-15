@@ -1,16 +1,62 @@
-### Hi there 👋
+<h1 align="left">Hi there 👋</h1>
 
-<!--
-**kaungkhantzawdev/kaungkhantzawdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h3 align="left">About Me</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">I'm passionate about Software engineer. Whether it's creating new app, new program and solving problem, I believe in these things. Let's connect and explore how we can create new things together.</p>
+
+###
+
+<h3 align="left">Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="35" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="35" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="35" alt="digitalocean logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="35" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="35" alt="nuxtjs logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaungkhantzawdev&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaungkhantzawdev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="250" alt="languages graph"  />
+</div>
+
+###
