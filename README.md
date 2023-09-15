@@ -50,6 +50,10 @@
   <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jquery" height="35" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="35" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="35" alt="redux logo"  />
 </div>
 
 ###
